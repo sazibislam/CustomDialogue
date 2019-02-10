@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialogue</string>
+    <string name="content_description">content description</string>
+    <string name="text">Some text here. put some text here.</string>
+    <string name="ok">ok</string>
+    <string name="note">note</string>
+    <string name="show_dialogue">Show Dialogue</string>
+</resources>
